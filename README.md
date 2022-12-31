@@ -1,3 +1,5 @@
+IT IS NOT RESPONSIVE!
+
 <p>What i have added more from the description:</p>
   <p>1.HomeScreen text animation</p>
   <p>2.MenuScreen : Donut rotation, hover and onclick animation and also hover animation on text</p>
